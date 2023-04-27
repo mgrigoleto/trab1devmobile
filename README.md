@@ -4,8 +4,8 @@ Nesse trabalho, é realizado a busca de atributos na API feita pelo professor e,
 Os demais arquivos criados automaticamente pelo NPM não estão inclusos, apenas os que eu modifiquei/alterei para avaliação.<br><br>
 
 - **App.js:** Arquivo principal contendo a chamada da API e formação da página.
-- **index.js:** Arquivo que estrutura os cartões dos filmes.
-- **style.js:** Arquivo para estilizar os cartões apresentados.
+- **src/filmes/filmes.js:** Arquivo que estrutura os cartões dos filmes.
+- **src/filmes/style.js:** Arquivo para estilizar os cartões apresentados.
 
 <br><br>
 *Desenvolvido por: Maurício Grigoleto Belinassi*
